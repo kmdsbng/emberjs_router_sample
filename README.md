@@ -1,1 +1,2 @@
-Download the ZIP to get started with Ember.js: <https://github.com/emberjs/starter-kit/downloads>
+demo http://kmdsbng.github.com/emberjs_router_sample/
+
